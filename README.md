@@ -1,6 +1,7 @@
 # MTProto-manager
 ```bash
-https://raw.githubusercontent.com/androideworld/MTProto-manager/refs/heads/main/install.sh
+wget -O install.sh https://raw.githubusercontent.com/androideworld/MTProto-manager/refs/heads/main/install.sh && chmod +x install.sh && sudo ./install.sh
+
 ```
 
 # 1. Сохраните скрипт
