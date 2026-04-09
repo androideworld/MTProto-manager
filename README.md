@@ -4,6 +4,11 @@ wget -O install.sh https://raw.githubusercontent.com/androideworld/MTProto-manag
 
 ```
 
+```bash
+wget -O mtproto-manager.sh https://github.com/androideworld/MTProto-manager/raw/refs/heads/main/mtproto-manager.sh && chmod +x mtproto-manager.sh && sudo ./mtproto-manager.sh
+
+```
+
 # 1. Сохраните скрипт
 ```bash
 sudo nano /usr/local/bin/mtproto-manager
