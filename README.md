@@ -1,4 +1,8 @@
 # MTProto-manager
+```bash
+https://raw.githubusercontent.com/androideworld/MTProto-manager/refs/heads/main/install.sh
+```
+
 # 1. Сохраните скрипт
 ```bash
 sudo nano /usr/local/bin/mtproto-manager
