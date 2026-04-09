@@ -5,7 +5,7 @@ set -e
 echo "🚀 Установка MTProto Proxy Manager..."
 
 # Скачиваем основной скрипт
-curl -fsSL https://github.com/androideworld/MTProto-manager/raw/refs/heads/main/mtproto-manager.sh \
+curl -fsSL https://raw.githubusercontent.com/androideworld/MTProto-manager/refs/heads/main/mtproto-manager.sh \
     -o /usr/local/bin/mtproto-manager
 
 # Делаем исполняемым
